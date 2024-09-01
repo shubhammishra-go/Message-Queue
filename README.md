@@ -198,6 +198,10 @@ Previous standardizations of middleware have happened at the API level (e.g. JMS
 
 A wire-level protocol is a description of the format of the data that is sent across the network as a stream of bytes. Consequently, any tool that can create and interpret messages that conform to this data format can interoperate with any other compliant tool irrespective of implementation language. 
 
+To know more about AMQP
+
+https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf
+
 
 ### History of AMQP
 
